@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "Extensi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflection", "ConsoleApp1\Reflection.csproj", "{C979A123-3D2C-4508-9BD8-81BD93595BF7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary_HashTable", "Dictionary_HashTable\Dictionary_HashTable.csproj", "{FB152E83-2370-4438-85EF-9CB1500C6184}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C979A123-3D2C-4508-9BD8-81BD93595BF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C979A123-3D2C-4508-9BD8-81BD93595BF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C979A123-3D2C-4508-9BD8-81BD93595BF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB152E83-2370-4438-85EF-9CB1500C6184}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB152E83-2370-4438-85EF-9CB1500C6184}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB152E83-2370-4438-85EF-9CB1500C6184}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB152E83-2370-4438-85EF-9CB1500C6184}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
